@@ -84,6 +84,9 @@ Przetestuj parametry sieci dla różnych typów wspieranych przez Twoje oprogram
 
 
 ### Ustawienia dla innego oprogramowania
+#### Vbox
+https://www.nakivo.com/blog/virtualbox-network-setting-guide/
+
 #### Docker
 https://docs.docker.com/network/#network-drivers
 
