@@ -33,3 +33,6 @@ W sieci pracują komputery biurowe oraz urządzenia siecowe współdzielące zas
     4. Konfiguracja interfejsów sieciowych
     5. Inne jeżeli wykorzystane
 
+
+##Zadanie
+
