@@ -34,5 +34,5 @@ W sieci pracują komputery biurowe oraz urządzenia siecowe współdzielące zas
     5. Inne jeżeli wykorzystane
 
 
-##Zadanie
+## Zadanie
 
